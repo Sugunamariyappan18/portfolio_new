@@ -99,7 +99,7 @@ const Contact: React.FC = () => {
                 />
               </div>
               <div>
-                <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">Message</label>
+                <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">Messag/label>
                 <textarea
                   required
                   rows={4}
