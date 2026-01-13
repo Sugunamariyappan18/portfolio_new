@@ -27,7 +27,7 @@ const Contact: React.FC = () => {
           <div>
             <h2 className="text-3xl font-bold mb-6 flex items-center">
               <MessageSquare className="mr-2 text-indigo-600" />
-              Get In 
+              Get In Touch
             </h2>
             <p className="text-lg text-slate-600 dark:text-slate-400 mb-10">
               I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's build something amazing together.
