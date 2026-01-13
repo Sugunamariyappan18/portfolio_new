@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
           <div className="flex items-center space-x-6">
              <a href="#about" className="text-sm text-slate-500 hover:text-indigo-600">About</a>
              <a href="#projects" className="text-sm text-slate-500 hover:text-indigo-600">Work</a>
-             <a href="#contact" className="text-sm text-slate-500 hover:text-indigo-600">Contact</a>
+             <a href="#contact" className="text-sm text-slate-500 hover:text-indigo-600">Contacttttttt</a>
           </div>
         </div>
       </div>
