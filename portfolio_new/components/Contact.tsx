@@ -50,7 +50,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-sm font-semibold text-slate-400 uppercase tracking-widest">Location</h4>
-                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">{PERSONAL_INFO.location}</p>
+                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">chennai</p>
                 </div>
               </div>
 
