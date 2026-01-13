@@ -6,7 +6,7 @@ export const PERSONAL_INFO = {
   role: "Full Stack PHP Developer",
   location: "India",
   tagline: "Building responsive, scalable, and user-friendly web applications",
-  email: "suguna.m@example.com", // Replace with actual
+  email: "sugunamariyappan18@gmail.com", // Replace with actual
   github: "https://github.com",
   linkedin: "https://linkedin.com",
 };
