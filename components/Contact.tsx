@@ -40,7 +40,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-sm font-semibold text-slate-400 uppercase tracking-widest">Email</h4>
-                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">{PERSONAL_INFO.email}</p>
+                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">sugunamariyappan18@gmail.com</p>
                 </div>
               </div>
 
@@ -50,7 +50,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-sm font-semibold text-slate-400 uppercase tracking-widest">Location</h4>
-                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">{PERSONAL_INFO.location}</p>
+                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">chennai</p>
                 </div>
               </div>
 
@@ -95,7 +95,7 @@ const Contact: React.FC = () => {
                   value={formData.email}
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                   className="w-full px-4 py-3 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white focus:ring-2 focus:ring-indigo-500 transition-all outline-none"
-                  placeholder="john@example.com"
+                  placeholder="example@gmailcom"
                 />
               </div>
               <div>
