@@ -69,8 +69,8 @@ export const EXPERIENCE: ExperienceItem[] = [
   {
     id: "exp1",
     role: "Full Stack Developer",
-    company: "Tech Solutions",
-    period: "2022 - Present",
+    company: "IGO Agritechfarms",
+    period: "2025 - Present",
     description: [
       "Developed and maintained dynamic web applications using PHP and MySQL.",
       "Integrated secure payment gateways ensuring seamless transaction flows.",
@@ -80,13 +80,14 @@ export const EXPERIENCE: ExperienceItem[] = [
   },
   {
     id: "exp2",
-    role: "Web Development Project",
-    company: "Freelance",
-    period: "2021 - 2022",
+    role: "Executive",
+    company: "Hitachi Payments Pvt.Ltd",
+    period: "2023 - 2025",
     description: [
-      "Built custom CMS solutions for small to medium enterprises.",
-      "Implemented responsive UI designs using Bootstrap and standard CSS.",
-      "Managed database architecture and query optimization for faster data retrieval."
+      "Provided ATM backend support by monitoring transactions",
+"troubleshooting issues, and coordinating with field teams to"
+"ensure smooth operations and minimal downtime while delivering"
+"timely technical support to clients and internal teams."
     ]
   }
 ];
