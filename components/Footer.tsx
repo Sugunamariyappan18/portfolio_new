@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
           <p className="text-slate-500 dark:text-slate-400 text-sm text-center">
             © {currentYear} {PERSONAL_INFO.name}. All rights reserved. 
             <span className="block mt-1">
-              Made with <Heart size={14} className="inline-block text-red-500 mx-1" /> created by suguna</span>
+              Made with <Heart size={14} className="inline-block text-red-500 mx-1" /> created by</span>
           </p>
 
           <div className="flex items-center space-x-6">
