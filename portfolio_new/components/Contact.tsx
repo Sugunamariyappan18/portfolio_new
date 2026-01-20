@@ -27,7 +27,7 @@ const Contact: React.FC = () => {
           <div>
             <h2 className="text-3xl font-bold mb-6 flex items-center">
               <MessageSquare className="mr-2 text-indigo-600" />
-              Get In Touch
+              Get In 
             </h2>
             <p className="text-lg text-slate-600 dark:text-slate-400 mb-10">
               I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's build something amazing together.
@@ -40,7 +40,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-sm font-semibold text-slate-400 uppercase tracking-widest">Email</h4>
-                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">{PERSONAL_INFO.email}</p>
+                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">sugunamariyappan18@gmail.com</p>
                 </div>
               </div>
 
@@ -50,7 +50,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-sm font-semibold text-slate-400 uppercase tracking-widest">Location</h4>
-                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">{PERSONAL_INFO.location}</p>
+                  <p className="text-lg font-medium text-slate-900 dark:text-slate-100">chennai</p>
                 </div>
               </div>
 

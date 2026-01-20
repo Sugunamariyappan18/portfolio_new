@@ -48,11 +48,11 @@ const About: React.FC = () => {
 
             <div className="flex gap-4">
                <div className="p-4 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-100 dark:border-slate-700 text-center flex-1">
-                  <div className="text-2xl font-bold text-indigo-600">3+</div>
+                  <div className="text-2xl font-bold text-indigo-600">1+</div>
                   <div className="text-sm text-slate-500">Years Experience</div>
                </div>
                <div className="p-4 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-100 dark:border-slate-700 text-center flex-1">
-                  <div className="text-2xl font-bold text-indigo-600">15+</div>
+                  <div className="text-2xl font-bold text-indigo-600">5+</div>
                   <div className="text-sm text-slate-500">Projects Done</div>
                </div>
             </div>
